@@ -1,6 +1,6 @@
 # Required settings
 # -----------------
-token = NzAzOTkxMjY3Njc5NDA0MDMy.XqWpEQ.HcIRSmLBVjFxPa24OeuAL19XaYs
+token = process.env.token
 mainGuildId = 703989661026091028
 mailGuildId = 703694035935690835
 logChannelId = 703990139063632003

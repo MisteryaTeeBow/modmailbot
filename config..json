@@ -1,11 +1,9 @@
-# Required settings
-# -----------------
-token = process.env.token
-mainGuildId = 703989661026091028
-mailGuildId = 703694035935690835
-logChannelId = 703990139063632003
+{
+  "token": "process.env.token",
+  "mailGuildId": "703989661026091028",
+  "mainGuildId": "703694035935690835",
+  "logChannelId": "703990139063632003",
 
-# Add new options below this line:
-# ----------------------------------
-"status": "PM for support",
+  "status": "PM for support",
   "responseMessage": "Merci pour votre message, Un membre de l'équippe des staffs va s'occuper de vous!"
+}

@@ -1,9 +1,1 @@
-worker: node knexfile.js
-worker: node bot.js
-worker: node config.js
-worker: node index.js
-worker: node knex.js
-worker: node main.js
-worker: node queue.js
-worker: node threadUtils.js
-worker: utils.js
+worker: npm start

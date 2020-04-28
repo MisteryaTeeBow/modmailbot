@@ -1,5 +1,5 @@
 {
-  "token": "process.env.token",
+  "token": "process.env.TOKEN",
   "mailGuildId": "704666756840554496",
   "mainGuildId": "704667662067957870",
   "logChannelId": "704667662067957873",

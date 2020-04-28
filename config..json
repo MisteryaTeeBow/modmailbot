@@ -1,8 +1,8 @@
 {
   "token": "process.env.token",
-  "mailGuildId": "703989661026091028",
-  "mainGuildId": "703694035935690835",
-  "logChannelId": "703990139063632003",
+  "mailGuildId": "704666756840554496",
+  "mainGuildId": "704667662067957870",
+  "logChannelId": "704667662067957873",
 
   "status": "PM for support",
   "responseMessage": "Merci pour votre message, Un membre de l'équippe des staffs va s'occuper de vous!"
